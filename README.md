@@ -1,13 +1,13 @@
-## Your Name
+## Adam Downey
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A recent university student beginning an intensive 12 week software development bootcamp with Makers Academy. Having completed two years of a History and Politics Degree at the University of Reading and being awarded a diploma I am now entering the world of tech. The freedom, co-operation and seemingly endless possibilites that software development offers are the primary attractions to the industry.
 
-## Projects
+## Projects 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Final project**            | To Do             | To Do             |
+| **Something else worked on** | To Do             | To Do             |
 
 ## Work Experience
 
@@ -22,11 +22,12 @@ _Your job title_
 - Any experience relevent to software development
 
 ## Skills
+**Team Player** - Having played football through school and university as well as on the weekend the importance of teamwork for success has been instilled in me.
+**Communication** - Working in hospitality and volunteering in a primary school has allowed me to further my communication skills along with understanding different personalities of all ages.
+**Organisation** - Organisational skills have been refined at university and from observing the professional environment at a leading law firm.
+**Fast Learner** -
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
+-STAR 
 -What was the situation/task? (ST)
 
 -How was the skill used?
@@ -36,42 +37,19 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (April 2021 - July 2021)
+- Use short descriptions of what you did and a skill you used.
 
-#### Your University / College (start_date to end_date)
+#### University of Reading (October 2018 - November 2020)
+- History & Politics Diploma.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Any other qualifications 
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+That in some arguable way make you a better software developer or well-rounded person 
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+- Football
+- Skiing
+- Reading
